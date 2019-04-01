@@ -20,7 +20,7 @@ where `conf.json` has the format as
 ### Create application
 ```
 cd testapp
-python3 -m cg-unixsocket.genapp --conf conf.json --app app
+python3 -m cg-unixsocketcs.genapp --conf conf.json --app app
 ```
 
 ### Start server in one terminal
